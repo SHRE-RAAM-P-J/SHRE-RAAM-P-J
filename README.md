@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Shre Raam</h1>
 
 <h3 align="center">
-Creative Engineer • Future Startup Founder • Building Real-World Software
+Creative Engineer • Building Real-World Software
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Creative+Engineer;Future+Startup+Founder;AI+%2B+Software+Developer;Building+Real-World+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Creative+Engineer;AI+%2B+Software+Developer;Building+Real-World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
